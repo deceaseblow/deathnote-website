@@ -1,5 +1,5 @@
 
-# ☠ DEATH NOTE — Personal Blog
+# ☠ DEATH NOTE — Blog Site
 
 <p align="center">
   <img src="./ref_images/11.webp" alt="Death Note Website" width="900">
