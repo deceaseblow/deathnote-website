@@ -2,7 +2,7 @@
 # ☠ DEATH NOTE — Personal Blog
 
 <p align="center">
-  <img src="./ref_images/reference_pic.webp" alt="Death Note Website" width="900">
+  <img src="./ref_images/11.webp" alt="Death Note Website" width="900">
 </p>
 
 <p align="center">
